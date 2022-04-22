@@ -1,0 +1,202 @@
+#ramdeobaba-logo {
+  position: absolute;
+  width: 140px;
+  height: 160px;
+  left: 13px;
+  top: 10px;
+  background: url(Ramdeobaba-Logo.png);
+}
+
+#new-logo {
+  position: absolute;
+  width: 130px;
+  height: 41px;
+  left: 20px;
+  top: 180px;
+  background: url(RCOEM_NewLogo.jpg);
+}
+
+#cse-banner {
+  position: absolute;
+  width: 1540px;
+  height: 230px;
+  left: 0px;
+  top: 0px;
+
+  background: url(csebanner.jpg);
+}
+
+#header {
+  position: absolute;
+  width: 1540px;
+  height: 165px;
+  left: 0px;
+  top: 0px;
+  text-align: center;
+  background: #f7e9bf;
+}
+#welcome-text {
+  margin: 5px;
+}
+
+#header-1 {
+  position: absolute;
+  width: 1200px;
+  height: 52px;
+  left: 256px;
+  top: 60px;
+
+  background: #f9cea6;
+  border-radius: 21px;
+}
+
+#header-2 {
+  position: absolute;
+  width: 1200px;
+  height: 52px;
+  left: 256px;
+  top: 116px;
+
+  background: #81d2ce;
+  border-radius: 21px;
+}
+
+#aicte-text {
+  position: absolute;
+  width: 1250px;
+  height: 30px;
+  left: 30px;
+  top: 15px;
+  margin: 5px;
+
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 17px;
+
+  color: hsl(0, 0%, 0%);
+}
+
+#hod-photo img {
+  position: absolute;
+  width: 294px;
+  height: 300px;
+  left: 80px;
+  top: 250px;
+
+  background: url(AvinashJAgrawal.jpg);
+}
+
+#hod-name {
+  position: absolute;
+  width: 294px;
+  height: 54px;
+  left: 80px;
+  top: 496px;
+
+  background: rgba(24, 18, 18, 0.7);
+}
+
+#hod-name h2 {
+  margin-top: 11px;
+  margin-left: 35px;
+  color: white;
+}
+
+#dep-box {
+  position: absolute;
+  width: 336px;
+  height: 350px;
+  left: 60px;
+  top: 560px;
+
+  background: #f7e9bf;
+  border-radius: 55px;
+}
+#dep-box h4 {
+  text-align: center;
+  margin-bottom: 5px;
+  margin-top: 5px;
+
+  margin-left: 5px;
+}
+#dep-box div1 {
+  position: absolute;
+  width: 280px;
+  height: 40px;
+  left: 30px;
+  top: 60px;
+  border-radius: 15px;
+
+  background: #81d2ce;
+}
+
+#dep-box div2 {
+  position: absolute;
+  border-radius: 15px;
+  width: 280px;
+  height: 40px;
+  left: 30px;
+  top: 130px;
+
+  background: #81d2ce;
+}
+
+#dep-box div3 {
+  position: absolute;
+  width: 280px;
+  border-radius: 15px;
+  height: 40px;
+  left: 30px;
+  top: 200px;
+
+  background: #81d2ce;
+}
+
+#dep-box div4 {
+  position: absolute;
+  border-radius: 15px;
+  width: 280px;
+  height: 40px;
+  left: 30px;
+  top: 270px;
+
+  background: #81d2ce;
+}
+
+#vision {
+  position: absolute;
+  text-align: center;
+  width: 1082px;
+  height: 140px;
+  left: 414px;
+  top: 250px;
+
+  background: #f7e9bf;
+}
+
+#mission {
+  position: absolute;
+  text-align: center;
+  width: 1082px;
+  height: 120px;
+  left: 414px;
+  top: 410px;
+  background: #f7e9bf;
+}
+
+#silentf {
+  position: absolute;
+  text-align: center;
+  width: 1082px;
+  height: auto;
+  left: 414px;
+  top: 550px;
+  background: #f7e9bf;
+}
+
+#silentf li {
+  text-align: left;
+  margin: 10px;
+}
